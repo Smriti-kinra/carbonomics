@@ -1,4 +1,3 @@
-}
 # Carbonomics — IUPAC Nomenclature Learning System
 
 Carbonomics is a Python-based CLI application designed to help students learn and practice IUPAC nomenclature for organic and coordination compounds.
